@@ -1,6 +1,11 @@
 BluwJay Android App
 ======================
 
+
+BluwJay uses BrowserStack in order to ensure that the app looks great on all screen resolutions, and that new features work as intended on all devices. You can sign up for a BrowserStack free trial account at https://www.browserstack.com/users/sign_up.
+
+![BrowserStack_logo](https://p14.zdusercontent.com/attachment/1015988/tYLdSe3Q98gdw8N5Ib4NvTY43?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..zljqh5oX9E9Jdo-SAyL67A.acmQdN4_26FYIdXUt9922dJ89Ns8BfknzI9PfKK7dRNIzNeakj8nMvFQ1iN08GK_rMQBVocrbqV4zkN6viEjHHovSztdu3XDy-C1rQYNUmjGgsPboVXWEo5jl4nwGz9BNr-mn-oeWTtr9TlJm1-E6K0x9f2_cz5ba_E-m5tP03O6CMS3dnscQI9deaeU6zM66p_vrn4RmGOiUkoZKg8cfh3Tm6FNEQDaQmFv-jRo2qDPILpL5mn3ISmz5jAwTftTWH2_LecguYNOVtTYx1J8mcCsr2Nhc4iHFFaz5q1eoAs.xRgbCGtgeCNFp_1SHN-qEQ)
+
 # Features
 
 The app displays a list of conference events - sessions, office hours, app
